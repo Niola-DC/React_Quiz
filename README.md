@@ -25,7 +25,7 @@ npm or yarn
 **Steps**
 _**Clone the repository**_
 
-git clone https://github.com/yourusername/quiz-app.git
+git clone https://github.com/Niola-DC/React_Quiz.git
 cd quiz-app
 
 _**Install dependencies**_
