@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What is the command to create a new React application?",
+    "options": ["create-react-app myApp", "react-create-app myApp", "new-react-app myApp", "generate-react-app myApp"],
+    "correctOption": 0,
+    "points": 5
+  },
+  {
+    "question": "What is JSX?",
+    "options": ["A syntax extension for JavaScript", "A JavaScript library", "A new programming language", "A tool for debugging React code"],
+    "correctOption": 0,
+    "points": 5
+  },
+  {
+    "question": "Which method in a React component is called after the component is rendered for the first time?",
+    "options": ["componentDidMount", "componentWillMount", "render", "constructor"],
+    "correctOption": 0,
+    "points": 5
+  },
+  {
+    "question": "How do you pass data to a React component?",
+    "options": ["Through props", "Through state", "Through methods", "Through services"],
+    "correctOption": 0,
+    "points": 5
+  },
+  {
+    "question": "What is the use of the key prop in React?",
+    "options": ["To uniquely identify elements", "To set the element's id", "To create a reference to the element", "To pass a value to the element"],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "Which hook is used to manage state in a functional component?",
+    "options": ["useState", "useEffect", "useContext", "useReducer"],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "What is a higher-order component (HOC) in React?",
+    "options": ["A component that renders another component", "A component that uses hooks", "A component that manages state", "A component that fetches data"],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "How do you create a React component using a function?",
+    "options": ["Using a function that returns JSX", "Using a class that extends React.Component", "Using a function that extends React.Component", "Using a constructor function"],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "Which of the following is not a lifecycle method in React?",
+    "options": ["componentWillReceiveProps", "componentDidUpdate", "shouldComponentUpdate", "componentWillRender"],
+    "correctOption": 3,
+    "points": 10
+  },
+  {
+    "question": "How can you optimize performance in a React application?",
+    "options": ["Using the shouldComponentUpdate method", "Using inline styles", "Using global variables", "Avoiding use of keys in lists"],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "What does the useEffect hook do?",
+    "options": ["Performs side effects in function components", "Manages state in function components", "Creates a context", "Executes code after every render"],
+    "correctOption": 0,
+    "points": 10
+  },
+  {
+    "question": "What is the virtual DOM?",
+    "options": ["A lightweight copy of the real DOM", "A tool for debugging React applications", "A built-in browser API", "A JavaScript library"],
+    "correctOption": 0,
+    "points": 5
+  },
+  {
+    "question": "How do you handle events in React?",
+    "options": ["By passing a function as a prop", "By using inline JavaScript", "By calling a function directly", "By using the addEventListener method"],
+    "correctOption": 0,
+    "points": 15
+  },
+  {
+    "question": "What is the use of the useContext hook?",
+    "options": ["To access the value of a context", "To manage state in function components", "To perform side effects in function components", "To handle events in function components"],
+    "correctOption": 0,
+    "points": 15
+  },
+  {
+    "question": "How can you prevent a component from re-rendering in React?",
+    "options": ["By using the shouldComponentUpdate method", "By using the render method", "By using the componentDidMount method", "By using the useEffect hook"],
+    "correctOption": 0,
+    "points": 15
+  },
+  {
+    "question": "What is React Router used for?",
+    "options": ["For routing in a React application", "For managing state in a React application", "For performing side effects in a React application", "For creating components in a React application"],
+    "correctOption": 0,
+    "points": 15
+  },
+  {
+    "question": "How do you conditionally render a React component?",
+    "options": ["Using the ternary operator", "Using a for loop", "Using the switch statement", "Using the map function"],
+    "correctOption": 0,
+    "points": 15
+  },
+  {
+    "question": "What is the purpose of the React.memo function?",
+    "options": ["To memoize the result of a function", "To create a memoized state", "To optimize the performance of a component", "To perform side effects in a component"],
+    "correctOption": 2,
+    "points": 15
+  },
+  {
+    "question": "Which hook is used to perform side effects in function components?",
+    "options": ["useEffect", "useState", "useContext", "useReducer"],
+    "correctOption": 0,
+    "points": 15
+  },
+  {
+    "question": "What is a controlled component in React?",
+    "options": ["A component that is controlled by state", "A component that is controlled by props", "A component that is controlled by a context", "A component that controls other components"],
+    "correctOption": 0,
+    "points": 15
+  }
+]
